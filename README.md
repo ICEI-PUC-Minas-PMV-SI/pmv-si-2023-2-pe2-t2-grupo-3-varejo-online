@@ -10,8 +10,8 @@ O objetivo do trabalho é desenvolver e implementar um sistema gerencial de cont
 * Beatriz Fontainha de Castro
 * Davi Guedes de Avila
 * Ian Benevides de Abreu
-* Ramir Aguiar Ribeiro Junior
 * Rafael Fernandes Marques
+* Ramir Aguiar Ribeiro Junior
 * Stephanie Gadoni Silva
 
 
