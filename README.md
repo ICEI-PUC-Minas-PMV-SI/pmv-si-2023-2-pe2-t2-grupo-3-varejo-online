@@ -1,16 +1,20 @@
-# Nome do projeto
+# PetCare de Ouro - Varejo Online - Grupo 3
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+Em um cenário onde a indústria de cuidados com animais de estimação exibe uma evolução notável, estabelecimentos dedicados ao bem-estar animal se consolidam cada vez mais em nosso meio urbano. Esta expansão robusta demonstra o potencial e a relevância do mercado pet no país. Diante desse panorama, a gestão eficiente destes estabelecimentos, especialmente no que tange ao controle de estoque, emerge como um desafio de grande magnitude. 
+O objetivo do trabalho é desenvolver e implementar um sistema gerencial de controle de estoque para o "Pet Care de Ouro", criando soluções que se concentrem em melhorar a tomada de decisões relacionadas ao estoque, como por exemplo em: a) cadastro detalhado de produtos; b) criação de relatórios de desempenho; c) rastreamento de lotes e validades.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* André Fabiano de Andrade Lima
+* Beatriz Fontainha de Castro
+* Davi Guedes de Avila
+* Ian Benevides de Abreu
+* Ramir Aguiar Ribeiro Junior
+* Rafael Fernandes Marques
+* Stephanie Gadoni Silva
+
 
 ## Professor
 
-* Nome completo do professor
+* Rosilane Ribeiro da Mota
